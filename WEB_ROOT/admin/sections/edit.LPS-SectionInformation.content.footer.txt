@@ -1,0 +1,13 @@
+<script src="/admin/javascript/PS-SectionInformation.js" type="text/javascript"></script>
+<div id="LPS-SectionInformation" style="display: none;">
+  <h2 pss-expand-collapse-item="resources" class="collapsed lpsCollapsibleHeader"><u>Information</u> <small>(Click to Expand/Collapse)</small></h2>
+  <div id="sectionResources" class="">
+    <div class="row">
+      <ul>
+        <!-- Place trash here -->
+        <li><a target="_blank" href="https://kb.lawrence.k12.ma.us/article.php?id=1190#AddNewLead">How to Change the Lead Teacher</a></li>
+        <!-- Place trash lid here -->
+      </ul>
+    </div>
+  </div>
+</div>

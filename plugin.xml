@@ -3,9 +3,9 @@
 <plugin xmlns="http://plugin.powerschool.pearson.com"
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation='http://plugin.powerschool.pearson.com plugin.xsd'
-        name="LPS - KB link to Lead Teacher"
+        name="LPS - SectionInformation"
         version="1.0"
-        description="Add a KB link on how to change who is the lead teacher">
+        description="Adds links section page">
     <publisher name="Alam Arias">
     <contact email="Alam.Arias@lawrence.k12.ma.us"/>
     </publisher>
